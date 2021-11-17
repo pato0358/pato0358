@@ -1,7 +1,7 @@
 ![I am a Full Stack Developer](https://media.istockphoto.com/photos/green-binary-code-matrix-background-wide-banner-picture-id898346256?k=20&m=898346256&s=170667a&w=0&h=JR8ldoUpfy4LPmiU82SbhCUbzkN3tfMSGM1fSWxO0b8=)
 
 ### Hi there 👋, my name is Patricio Randle
-#### I am a Full Stack Developer
+#### Full Stack Developer
 
 
 After spending 20 years in different companies I've found my passion in programming.
