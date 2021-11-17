@@ -16,6 +16,5 @@ If you're looking for a hardworking and enthusiastic person for your team, I'll 
 
 Skills: JavaScript, ReactJS, ReduxJS, NodeJS, Express, CSS-
 
-Email: patricio.randle@gmail.com
-Cel: +5491159954756
-LinkedIn: https://www.linkedin.com/in/patricio-randle-81a8741/
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pato0358)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/patricio-randle/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@PatricioRandle)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](+5491159954756)  
