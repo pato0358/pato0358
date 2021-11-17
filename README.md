@@ -1,4 +1,4 @@
-![I am a Full Stack Developer](https://thumbs.gfycat.com/AcrobaticGoodnaturedBooby-size_restricted.gif)
+![I am a Full Stack Developer](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/deliveries/614353/original/web-banner-design-header_ws_1369117576/create-three-gif-animation-banner-with-in-24-hour.gif)
 
 # Patricio Randle
 
