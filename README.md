@@ -6,7 +6,7 @@
 
 After spending 20 years in different companies I've found my passion in programming.
 
-I started when I was very young programming with D-Base in DOS, Windows wasn't born at that time!
+I've started very young programming with D-Base in DOS, Windows wasn't born at that time!
 
 Looking here and there I decided to once and for all jump into programming, so I entered Henry's bootcamp.
 
